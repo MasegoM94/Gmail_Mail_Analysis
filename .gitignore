@@ -1,0 +1,10 @@
+# Ignore the credentials YAML file
+Password_folders/gmail_access.yaml
+
+# Ignore the JSON file with email addresses
+Password_folders/email_list.json
+
+# Additionally, you might want to ignore all log files and Python cache directories
+*.log
+__pycache__/
+*.pyc
