@@ -34,7 +34,7 @@ This Python script automates the process of connecting to a Gmail account via IM
    - **YAML File**: Create a `gmail_access.yaml` file in the `config` directory with the following structure:
      ```yaml
      user: your-email@gmail.com
-     password: yourpassword
+     password: yourgmailapppassword
      ```
    - **JSON File**: Create an `email_list.json` file in the `config` directory with the structure:
      ```json
